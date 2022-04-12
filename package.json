@@ -18,10 +18,12 @@
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
     "framer-motion": "^5.3.0",
+    "jsx": "^0.9.89",
     "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
+    "style": "^0.0.3",
     "three": "^0.134.0"
   },
   "devDependencies": {
